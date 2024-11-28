@@ -21,7 +21,6 @@
     "issues": "https://github.com/andrewhoule/silverstripe-photogallery/issues"
   },
   "require": {
-    "silverstripe/vendor-plugin": "^1.0",
     "silverstripe/cms": "^5",
     "silverstripe/framework": "^5",
     "undefinedoffset/sortablegridfield": "^2.0",
